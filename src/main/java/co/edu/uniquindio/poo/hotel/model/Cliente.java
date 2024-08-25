@@ -1,0 +1,6 @@
+package co.edu.uniquindio.poo.hotel.model;
+
+public class Cliente {
+    private String nombre, iD;
+
+}
